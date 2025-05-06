@@ -17,3 +17,10 @@ I am a freelance Web Designer & Developer passionate about UX Design and Develop
 ~To complete my Bachelor's in Web Development with Honors
 ~To expand and grow my knowledge and skillset
 ~To land a remote job with the potential for travel included, but for a company, no more freelancing
+
+##::Hobbies::
+🥾 I love hiking and anything outdoors!
+🎣 Fishing is a lot of fun, even when you don't catch anything.
+💻 Of course I love to code, create and design!
+🪴 I like gardening, but I am still learning
+🎳 Going bowling with friends is fun too!
